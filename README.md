@@ -31,13 +31,6 @@ From uncovering hidden customer behaviors 🔍, to predicting market trends 📈
 
 ---
 
-## 🎨 Demo Screenshots
-
-![Dashboard Example](https://user-images.githubusercontent.com/yourusername/demo-dashboard.png)  
-*Interactive dashboard showcasing sales trends*
-
----
-
 ## 🛠️ Installation
 
 Ready to dive in? Just follow these steps:
