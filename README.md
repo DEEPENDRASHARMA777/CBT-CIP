@@ -8,7 +8,7 @@ From uncovering hidden customer behaviors 🔍, to predicting market trends 📈
 
 ---
 
-## 🌟 Why Choose CipherByte Data Analytics?
+# 🌟 Why Choose CipherByte Data Analytics?
 
 - 🚀 **Cutting-Edge Tools & Techniques**: Leveraging AI & ML for predictive analytics 🤖  
 - 🎯 **Actionable Insights**: From raw data to smart decisions 💼  
@@ -19,7 +19,7 @@ From uncovering hidden customer behaviors 🔍, to predicting market trends 📈
 
 ---
 
-## ✨ Features
+# ✨ Features
 
 - 🧹 Data Cleaning & Preprocessing  
 - 📊 Statistical Analysis & Reporting  
@@ -31,7 +31,7 @@ From uncovering hidden customer behaviors 🔍, to predicting market trends 📈
 
 ---
 
-## 🛠️ Installation
+# 🛠️ Installation
 
 Ready to dive in? Just follow these steps:
 
